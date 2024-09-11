@@ -88,7 +88,7 @@ async def cbq(_, q):
         id = q.from_user.id
         spl = q.data.split("_")
         if id != int(spl[1]):
-          return await q.answer("This is not for you baka !", show_alert=True)
+          return await q.answer("Dusro ke private message mt dekh bkl 🤡", show_alert=True)
         for_search = spl[0] + "_" + spl[1]
         try:
             msg = ALPHA[for_search] 
