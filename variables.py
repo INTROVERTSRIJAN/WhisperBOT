@@ -2,7 +2,7 @@ BOT_TOKEN = "7121773838:AAHhoFDNIUQwaiNBrUFPPxaxqoBKk8TZ5RA"
 
 # EXAMPLE: BOT_TOKEN = "5953961340:AAFiBeDXt7Yb10ShbV2O5z2oCzVTgjEK43g"
 
-START_PIC = "https://i.ibb.co/NymsXcC/file-91.jpg"
+START_PIC = "https://i.ibb.co/pQqZyDJ/file-92.jpg"
 
 # ENTER LINK OF PIC !
 
