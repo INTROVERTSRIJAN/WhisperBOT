@@ -10,4 +10,4 @@ COPY . /app
 
 CMD ["python3", "fuckufffXD.py"]
 
-EXPOSE 808
+EXPOSE 8000
